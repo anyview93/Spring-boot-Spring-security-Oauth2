@@ -1,6 +1,6 @@
 package com.example.oauth.config;
 /**
- * mysql数据库配置
+ * mysql数据库配置Druid
  */
 import javax.sql.DataSource;
 
